@@ -1,9 +1,8 @@
 ## credit-card-fraud-detection-using-machine-learning
 
-This Credit Card Fraud Detection application is a robust and efficient tool designed to identify fraudulent transactions in credit card datasets. The application allows users to preprocess data, visualize patterns, and apply advanced machine learning techniques to improve fraud detection. It calculates fraud likelihood based on historical data, enabling proactive measures against fraudulent activities.
+This Credit Card Fraud Detection project is a robust and efficient framework designed to identify fraudulent transactions in credit card datasets. It includes preprocessing tools, visualization utilities, and advanced machine learning models to improve fraud detection capabilities. By analyzing historical data, it calculates fraud likelihood, enabling proactive measures against fraudulent activities.
 
 ## Project Overview:
-
 Credit card fraud detection is a binary classification problem where the goal is to distinguish between fraudulent (is_fraud=1) and legitimate (is_fraud=0) transactions. This project includes:
 
 - Data preprocessing and feature engineering
